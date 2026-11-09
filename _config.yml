@@ -1,0 +1,10 @@
+# Настройки сайта документации (GitHub Pages + Jekyll)
+title: Документация
+description: Документация проекта 01-Test, опубликованная из репозитория Docs
+lang: ru
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
+aux_links:
+  "Репозиторий Docs": "https://github.com/Trindamir/Docs"
